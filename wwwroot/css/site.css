@@ -1,0 +1,162 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image: url("ui/images/ui-bg_fine-grain_10_eceadf_60x60.png");
+}
+
+
+/* Wrapping element */
+
+
+/* Set some basic padding to keep content from hitting the edges */
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+/* Carousel */
+
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+
+/* Make .svg files in the carousel display properly in older browsers */
+
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+
+/* QR code generator */
+
+#qrCode {
+    margin: 15px;
+}
+
+
+/* Hide/rearrange for smaller screens */
+
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+
+/* Set padding to keep content from hitting the edges */
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+*:focus {
+    outline: 0 !important;
+}
+
+
+/* Set width on the form input elements since they're 100% wide by default */
+
+input,
+select,
+textarea {
+    /*max-width: 280px;*/
+}
+
+canvas {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.div44 {
+    position: absolute;
+    width: 600px;
+    height: 360px;
+    overflow: hidden;
+    margin-top: -425px;
+}
+
+.dragan {
+    height: 40px;
+    margin-right: 5px;
+    margin-top: 1px;
+}
+
+.btn {
+    margin-bottom: 5px;
+    margin-right: 2px;
+}
+
+.ui-tabs-nav {
+    background-image: url("ui/images/ui-bg_fine-grain_10_eceadf_60x60.png");
+}
+
+.ui-state-active {
+    background-image: url("ui/images/ui-bg_fine-grain_65_654b24_60x60.png") !important;
+}
+
+.ui-state-active a {
+    color: antiquewhite !important;
+}
+
+.ui-tabs-nav li {
+    border-bottom-width: 1px !important;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.ui-tabs-anchor {
+    padding: 0px;
+}
+
+.a {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    transform: rotate(90deg);
+    /* For modern browsers(CSS3)  */
+}
+
+.b {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+    /* For modern browsers(CSS3)  */
+}
+
+.spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 50px;
+}
+
+.rotate {
+    -ms-transform: rotate(90deg);
+    /* IE 9 */
+    -webkit-transform: rotate(90deg);
+    /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+}
+
+#tabs {
+    border: ridge;
+}

@@ -1,0 +1,10 @@
+d:\VezbeIzProgramiranja\MVC\Kalendar\bin\Debug\netcoreapp2.0\Kalendar.deps.json
+d:\VezbeIzProgramiranja\MVC\Kalendar\bin\Debug\netcoreapp2.0\Kalendar.runtimeconfig.json
+d:\VezbeIzProgramiranja\MVC\Kalendar\bin\Debug\netcoreapp2.0\Kalendar.runtimeconfig.dev.json
+d:\VezbeIzProgramiranja\MVC\Kalendar\bin\Debug\netcoreapp2.0\Kalendar.dll
+d:\VezbeIzProgramiranja\MVC\Kalendar\bin\Debug\netcoreapp2.0\Kalendar.pdb
+d:\VezbeIzProgramiranja\MVC\Kalendar\obj\Debug\netcoreapp2.0\Kalendar.csproj.CoreCompileInputs.cache
+d:\VezbeIzProgramiranja\MVC\Kalendar\obj\Debug\netcoreapp2.0\Kalendar.AssemblyInfoInputs.cache
+d:\VezbeIzProgramiranja\MVC\Kalendar\obj\Debug\netcoreapp2.0\Kalendar.AssemblyInfo.cs
+d:\VezbeIzProgramiranja\MVC\Kalendar\obj\Debug\netcoreapp2.0\Kalendar.dll
+d:\VezbeIzProgramiranja\MVC\Kalendar\obj\Debug\netcoreapp2.0\Kalendar.pdb
